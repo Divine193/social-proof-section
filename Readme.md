@@ -70,5 +70,5 @@ Areas that I want to focus on in future projects
 - [Resource 2] (Responsive webdesign with HTML5 nad CSS3 by Ben Frain) - This is another book that really helped me to know the ins and outs of mobile-first responsive web design. I'd recommend it to anyone who is looking for a complete book on responsive web design.
 
 ## Author
-
+- Twitter - [@Divine56624](https://www.twitter.com/Divine56624)
 
